@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Conformist's github stats](https://github-readme-stats.vercel.app/api?username=Conformist101&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conformist101)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Conformist101&repo=https://github.com/Conformist101?tab=repositories)](https://github.com/anuraghazra/github-readme-stats)
