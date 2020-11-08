@@ -2,7 +2,7 @@
 #### About Me:
 I am a data science enthusiast who is highly passionate about using data sciences in solving real world problems. A technical geek at heart who goes gaga over new and emerging technologies and have keen interest in doing research in various emerging fields.
 Apart from that I am also a voracious reader and an avid video gamer (when not busy in writing code or in devouring books ).
-</p>
+</br>
 <!--
 **Conformist101/Conformist101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
