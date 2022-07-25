@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### About Me:
-I am a data science enthusiast who is highly passionate about using data sciences in solving real world problems. A technical geek at heart who goes gaga over new and emerging technologies and have keen interest in doing research in various emerging fields.
+I am a data science and data engineering enthusiast who is highly passionate about using data sciences in solving real world problems. A technical geek at heart who goes gaga over new and emerging technologies and have keen interest in doing research in various emerging fields.
 Apart from that I am also a voracious reader and an avid video gamer (when not busy in writing code or in devouring books ).
 </br>
 <!--
